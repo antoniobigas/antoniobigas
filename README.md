@@ -1,6 +1,4 @@
 - 👋 Olá, me chamo Antonio Bigas!
-
-- 👀 Estou interessado em: DevOps, Back-end
 - 🌱 Atualmente estudando sobre: Linux Python Docker Machine Learning
 ##
 <div align="center">
