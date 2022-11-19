@@ -2,7 +2,6 @@
 
 - 👀 Estou interessado em: DevOps, Back-end
 - 🌱 Atualmente estudando sobre: Linux Python Docker Machine Learning
-- 📫 Você pode me encontrar por e-mail: antoniobigas@gmail.com
 ##
 <div align="center">
   <a href="https://github.com/antoniobigas">
