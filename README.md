@@ -44,9 +44,8 @@
   
 |Title | Technologies|
 |--|--|
-| [Jornada Devops](https://github.com/antoniobigas/Jornada-DevOps)| ![YT](https://img.shields.io/badge/API-black?style=flat-square&logo=youtube) ![Gmail](https://img.shields.io/badge/API-black?style=flat-square&logo=gmail) ![Dropbox](https://img.shields.io/badge/API-black?style=flat-square&logo=dropbox)<br> ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) ![RDS](https://img.shields.io/badge/RDS-black?style=flat-square&logo=amazonaws)<br> ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) ![Heroku](https://img.shields.io/badge/Heroku-black?style=flat-square&logo=heroku)  |
-| [Job Application Bot](https://github.com/drkostas/JobApplicationBot)| ![Gmail](https://img.shields.io/badge/API-black?style=flat-square&logo=gmail) ![Dropbox](https://img.shields.io/badge/API-black?style=flat-square&logo=dropbox)<br> ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) ![RDS](https://img.shields.io/badge/RDS-black?style=flat-square&logo=amazonaws)<br> ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) ![Heroku](https://img.shields.io/badge/Heroku-black?style=flat-square&logo=heroku)  |
+| [Jornada Devops](https://github.com/antoniobigas/Jornada-DevOps)|  |
+| [Job Application Bot](https://github.com/drkostas/JobApplicationBot)  |
 
-</td><td>
 
 </div>
