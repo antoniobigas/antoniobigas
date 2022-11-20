@@ -41,11 +41,11 @@
 
 <div> 
   
-|Principais Repositórios|
+|Principais Repositórios| |
 |--|--|
-| [Jornada Devops](https://github.com/antoniobigas/Jornada-DevOps)  
-| [API_FLASK](https://github.com/antoniobigas/API_FLASK)  
-| [Bootcamp ciencia de dados](https://github.com/antoniobigas/BootCamp-Geracao-tech-unimed-bh)  
+| [Jornada Devops](https://github.com/antoniobigas/Jornada-DevOps)  |
+| [API_FLASK](https://github.com/antoniobigas/API_FLASK) | 
+| [Bootcamp ciencia de dados](https://github.com/antoniobigas/BootCamp-Geracao-tech-unimed-bh)  |
 
 
 
