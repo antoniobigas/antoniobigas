@@ -1,5 +1,6 @@
-- 👋 Olá, me chamo Antonio Bigas!
--  Atualmente estudando sobre: Python Linux  Docker Kubernetes Machine Learning
+- 👋 Olá, me chamo Antonio Bigas, sou desenvolvedor de software back-end!
+-  Meu foco de estudo e atuação é: Python Linux DevOps Docker Kubernetes Machine Learning e CyberSecurity
+-  
 ##
 <div align="center">
   <a href="https://github.com/antoniobigas">
