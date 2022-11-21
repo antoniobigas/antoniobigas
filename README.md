@@ -1,5 +1,5 @@
 - 👋 Olá, me chamo Antonio Bigas!
--  Atualmente estudando sobre: Linux Python Docker Kubernetes Machine Learning
+-  Atualmente estudando sobre: Python Linux  Docker Kubernetes Machine Learning
 ##
 <div align="center">
   <a href="https://github.com/antoniobigas">
