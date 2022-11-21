@@ -45,6 +45,7 @@
 |--|--|
 | [Jornada Devops](https://github.com/antoniobigas/Jornada-DevOps)  |
 | [API_FLASK](https://github.com/antoniobigas/API_FLASK) | 
+| [Seguranca da informacao com Python](https://github.com/antoniobigas/cybersecuritypy)  |
 | [Bootcamp ciencia de dados](https://github.com/antoniobigas/BootCamp-Geracao-tech-unimed-bh)  |
 | [Projetos front end](https://github.com/antoniobigas/Projetos-HTML-CSS)  |
 
