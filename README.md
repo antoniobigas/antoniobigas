@@ -2,7 +2,7 @@
 -  Meu foco de estudo e atuação é: Python Linux DevOps Docker Kubernetes Machine Learning e CyberSecurity
 
 
-##
+## 
 <div align="center">
   <a href="https://github.com/antoniobigas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antoniobigas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -22,7 +22,7 @@
   
 </div>
 
-  ##
+  ## Contato
   
  <div>
  <a href = "mailto:antoniobigas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
