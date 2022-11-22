@@ -38,7 +38,9 @@
 ##   
   
  <div>
+   
 ![snake gif](https://github.com/antoniobigas/antoniobigas/blob/output/github-contribution-grid-snake.svg) 
+   
 </div>
 
 ## 
