@@ -27,6 +27,7 @@
  <div>
  <a href = "mailto:antoniobigas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/antoniobigasn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://wa.me/5511954332387" target="_blank"><img src="https://img.icons8.com/color/512/whatsapp--v6.png" target="_blank"></a>    
  </div>
   
   
