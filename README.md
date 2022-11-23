@@ -51,14 +51,11 @@
 |Principais Repositórios| |
 |--|--|
 | [Jornada Devops](https://github.com/antoniobigas/Jornada-DevOps)  |
-| [ CRUD - Projetos](https://github.com/antoniobigas/crud1)  |
+| [CRUD](https://github.com/antoniobigas/crud1)  |
 | [API_FLASK](https://github.com/antoniobigas/API_FLASK) | 
-| [Seguranca da informacao com Python](https://github.com/antoniobigas/cybersecuritypy)  |
-| [Bootcamp ciencia de dados](https://github.com/antoniobigas/BootCamp-Geracao-tech-unimed-bh)  |
-| [Projetos front end](https://github.com/antoniobigas/Projetos-HTML-CSS)  |
-
-
-
+| [Seguranca da Informacao com Python](https://github.com/antoniobigas/cybersecuritypy)  |
+| [Bootcamp Ciencia de Dados](https://github.com/antoniobigas/BootCamp-Geracao-tech-unimed-bh)  |
+| [Projetos Front End](https://github.com/antoniobigas/Projetos-HTML-CSS)  |
 
 
 </div>
