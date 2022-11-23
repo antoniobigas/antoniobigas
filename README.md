@@ -1,5 +1,16 @@
-- 👋 Olá, me chamo Antonio Bigas, sou desenvolvedor de software back-end!
+- 👋 Olá, me chamo Antonio Bigas, seja bem vindx!
 -  Meu foco de estudo e atuação é: Python Linux DevOps Docker Kubernetes Machine Learning e CyberSecurity
+
+
+# SOBRE
+
+Desenvolvedor de software, com conhecimentos em Front-end e Back-end, experiencia em Suporte, Auditoria, Gestão de equipes, Elaboração e acompanhamento de Treinamentos, Abertura de chamados, Acesso remoto. 
+
+Possuo experiência com desenvolvimento de aplicações em Python, Flask, Django, Análise de Dados, pandas, sklearn, API REST, Mensageria com kafka , Segurança da informação. Possuo certificação de todas tecnologias citadas.
+
+Sou uma pessoa dedicada, organizada e possuo facilidade de aprendizado, gosto muito de tecnologia.
+
+Atualmente cursando o 4ºSemestre de Analise e Desenvolvimento de Sistemas na UNIASSELVI, mas além da faculdade estudo sobre DevOps, Python e Java.
 
 
 ## 
