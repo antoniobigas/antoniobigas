@@ -32,10 +32,10 @@ Atualmente cursando o 4ºSemestre de Analise e Desenvolvimento de Sistemas na UN
   
 |Principais Repositórios| |
 |--|--|
+| [Seguranca da Informacao com Python](https://github.com/antoniobigas/cybersecuritypy)  |
 | [Jornada Devops](https://github.com/antoniobigas/Jornada-DevOps)  |
 | [CRUD](https://github.com/antoniobigas/crud1)  |
 | [API_FLASK](https://github.com/antoniobigas/API_FLASK) | 
-| [Seguranca da Informacao com Python](https://github.com/antoniobigas/cybersecuritypy)  |
 | [Bootcamp Ciencia de Dados](https://github.com/antoniobigas/BootCamp-Geracao-tech-unimed-bh)  |
 | [Projetos Front End](https://github.com/antoniobigas/Projetos-HTML-CSS)  |
 
