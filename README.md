@@ -27,6 +27,22 @@ Atualmente cursando o 4ºSemestre de Analise e Desenvolvimento de Sistemas na UN
 
 ## 
   
+ 
+<div> 
+  
+|Principais Repositórios| |
+|--|--|
+| [Jornada Devops](https://github.com/antoniobigas/Jornada-DevOps)  |
+| [CRUD](https://github.com/antoniobigas/crud1)  |
+| [API_FLASK](https://github.com/antoniobigas/API_FLASK) | 
+| [Seguranca da Informacao com Python](https://github.com/antoniobigas/cybersecuritypy)  |
+| [Bootcamp Ciencia de Dados](https://github.com/antoniobigas/BootCamp-Geracao-tech-unimed-bh)  |
+| [Projetos Front End](https://github.com/antoniobigas/Projetos-HTML-CSS)  |
+
+
+</div>
+
+ 
 ## Tecnologias
 <div style="display: inline_block"> <br>
 <img  alt="Bigas-Python" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
@@ -62,17 +78,3 @@ Atualmente cursando o 4ºSemestre de Analise e Desenvolvimento de Sistemas na UN
 </div>
 
 ## 
-
-<div> 
-  
-|Principais Repositórios| |
-|--|--|
-| [Jornada Devops](https://github.com/antoniobigas/Jornada-DevOps)  |
-| [CRUD](https://github.com/antoniobigas/crud1)  |
-| [API_FLASK](https://github.com/antoniobigas/API_FLASK) | 
-| [Seguranca da Informacao com Python](https://github.com/antoniobigas/cybersecuritypy)  |
-| [Bootcamp Ciencia de Dados](https://github.com/antoniobigas/BootCamp-Geracao-tech-unimed-bh)  |
-| [Projetos Front End](https://github.com/antoniobigas/Projetos-HTML-CSS)  |
-
-
-</div>
