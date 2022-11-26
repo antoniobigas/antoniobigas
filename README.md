@@ -1,5 +1,4 @@
 - 👋 Olá, me chamo Antonio Bigas, seja bem vindx!
--  Meu foco de estudo e atuação é: Python Linux DevOps Docker Kubernetes Machine Learning e CyberSecurity
 
 
 # SOBRE
