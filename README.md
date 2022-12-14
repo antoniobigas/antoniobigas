@@ -32,8 +32,8 @@ Atualmente cursando o 4ºSemestre de Analise e Desenvolvimento de Sistemas na UN
 |Principais Repositórios| |
 |--|--|
 | [Seguranca da Informacao com Python](https://github.com/antoniobigas/cybersecuritypy)  |
-| [CRUD](https://github.com/antoniobigas/crud1)  |
-| [API_FLASK](https://github.com/antoniobigas/API_FLASK) | 
+| [Crud Python](https://github.com/antoniobigas/crud1)  |
+| [API FLASK](https://github.com/antoniobigas/API_FLASK) | 
 | [Curso Java](https://github.com/antoniobigas/Java-Curso) |
 | [Jogo de Xadrez em Java](https://github.com/antoniobigas/Jogo-xadrez-java) |
 | [Jornada Devops](https://github.com/antoniobigas/Jornada-DevOps)  |
