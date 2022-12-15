@@ -30,16 +30,18 @@ Atualmente cursando o 4ºSemestre de Analise e Desenvolvimento de Sistemas na UN
 <div> 
   
 |Principais Repositórios| |
-|--|--|
-| [Seguranca da Informacao com Python](https://github.com/antoniobigas/cybersecuritypy)  |
-| [Crud Python](https://github.com/antoniobigas/crud1)  |
-| [API FLASK](https://github.com/antoniobigas/API_FLASK) | 
-| [Curso Java](https://github.com/antoniobigas/Java-Curso) |
+|--|--| 
 | [API SpringBoot + Heroku](https://github.com/antoniobigas/Java-SpringBoot-API) |
 | [Jogo de Xadrez em Java](https://github.com/antoniobigas/Jogo-xadrez-java) |
-| [Jornada Devops](https://github.com/antoniobigas/Jornada-DevOps)  |
-| [Bootcamp Ciencia de Dados](https://github.com/antoniobigas/BootCamp-Geracao-tech-unimed-bh)  |
-| [ Projetos Front End](https://github.com/antoniobigas/Projetos-HTML-CSS)  |
+| [Seguranca da Informacao com Python](https://github.com/antoniobigas/cybersecuritypy)  |
+| [Crud Python](https://github.com/antoniobigas/crud1)  |
+| [API FLASK](https://github.com/antoniobigas/API_FLASK) |
+| [Curso Java](https://github.com/antoniobigas/Java-Curso) |
+| [Curso Desenvolvimento Web Fullstack + Python](https://github.com/antoniobigas/Projetos-HTML-CSS)  |
+| [Bootcamp: Jornada Devops](https://github.com/antoniobigas/Jornada-DevOps)  |
+| [Bootcamp: Ciencia de Dados](https://github.com/antoniobigas/BootCamp-Geracao-tech-unimed-bh)  |
+| [Bootcamp: Data Experiencie  - Banco de Dados ](https://github.com/antoniobigas/DataExperience)  |
+
 
 
 </div>
