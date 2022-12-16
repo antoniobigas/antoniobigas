@@ -31,7 +31,7 @@ Atualmente cursando o 4ºSemestre de Analise e Desenvolvimento de Sistemas na UN
   
 |Principais Repositórios| |
 |--|--| 
-| [API SpringBoot + Heroku](https://github.com/antoniobigas/Java-SpringBoot-API) |
+| [API SpringBoot](https://github.com/antoniobigas/Java-SpringBoot-API) |
 | [Jogo de Xadrez em Java](https://github.com/antoniobigas/Jogo-xadrez-java) |
 | [Seguranca da Informacao com Python](https://github.com/antoniobigas/cybersecuritypy)  |
 | [Crud Python](https://github.com/antoniobigas/crud1)  |
