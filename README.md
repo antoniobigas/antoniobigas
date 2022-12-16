@@ -7,6 +7,8 @@ Desenvolvedor de software, com conhecimentos em Front-end e Back-end, experienci
 
 Possuo experiência com desenvolvimento de aplicações em Python, Flask, Django, Análise de Dados, pandas, sklearn, API REST, Mensageria com kafka , Segurança da informação. Possuo certificação de todas tecnologias citadas.
 
+Possuo experiência com desenvolvimento de API Java utilizando SpringBoot
+
 Sou uma pessoa dedicada, organizada e possuo facilidade de aprendizado, gosto muito de tecnologia.
 
 Atualmente cursando o 4ºSemestre de Analise e Desenvolvimento de Sistemas na UNIASSELVI, mas além da faculdade estudo sobre DevOps, Python e Java.
