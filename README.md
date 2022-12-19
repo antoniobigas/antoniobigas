@@ -16,7 +16,7 @@ Atualmente cursando o 4ºSemestre de Analise e Desenvolvimento de Sistemas na UN
 
 ## 
 
-<div> 
+<div  align="center" dir="auto"> 
   
 |Principais Repositórios| |
 |--|--| 
@@ -37,7 +37,7 @@ Atualmente cursando o 4ºSemestre de Analise e Desenvolvimento de Sistemas na UN
 
 
  ## ⚙️ Github Analytics
-<div align="center">
+<div align="center" dir="auto">
 
   <a href="https://github.com/antoniobigas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antoniobigas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -50,7 +50,7 @@ Atualmente cursando o 4ºSemestre de Analise e Desenvolvimento de Sistemas na UN
  
  
 ## Tecnologias
-<div style="display: inline_block"> <br>
+<div  align="center" dir="auto" style="display: inline_block"> <br>
 <img  alt="Bigas-Python" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
  <img alt="Bigas-Java" height="60" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img alt="Bigas-linux" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -67,7 +67,7 @@ Atualmente cursando o 4ºSemestre de Analise e Desenvolvimento de Sistemas na UN
  
   ## Contato
   
- <div>
+ <div  align="center" dir="auto">
 <a href = "mailto:antoniobigas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/antoniobigasn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://wa.me/5511954332387"><img src="https://img.icons8.com/color/512/whatsapp--v6.png" alt="Wpp" style="width:42px;height:42px;"></a>  Se preferir, me chame no Whatsapp.
