@@ -11,7 +11,7 @@ Possuo experiência com desenvolvimento de API Java utilizando SpringBoot
 
 Sou uma pessoa dedicada, organizada e possuo facilidade de aprendizado, gosto muito de tecnologia.
 
-Atualmente cursando o 4ºSemestre de Analise e Desenvolvimento de Sistemas na UNIASSELVI, mas além da faculdade estudo sobre DevOps, Python e Java.
+Atualmente cursando o 5ºSemestre de Analise e Desenvolvimento de Sistemas na UNIASSELVI, mas além da faculdade estudo sobre DevOps, Python e Java.
 
 
 ## 
