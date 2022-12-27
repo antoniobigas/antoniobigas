@@ -20,6 +20,7 @@ Atualmente cursando o 5ºSemestre de Analise e Desenvolvimento de Sistemas na UN
   
 |Principais Repositórios| |
 |--|--| 
+| [Mensageria Spring AMQP e RabbitMQ](https://github.com/antoniobigas/Mensageria-java-spring-AMQP-RabbitMQ) |  
 | [API SpringBoot](https://github.com/antoniobigas/Java-SpringBoot-API) |
 | [Jogo de Xadrez em Java](https://github.com/antoniobigas/Jogo-xadrez-java) |
 | [Seguranca da Informacao com Python](https://github.com/antoniobigas/cybersecuritypy)  |
