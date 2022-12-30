@@ -3,15 +3,15 @@
 
 # SOBRE
 
-Desenvolvedor de software, com conhecimentos em Front-end e Back-end, experiencia em Suporte, Auditoria, Gestão de equipes, Abertura de chamados, Acesso remoto. 
+Desenvolvedor de software, atualmente cursando o 5ºSemestre de Analise e Desenvolvimento de Sistemas na UNIASSELVI, mas além da faculdade estudo Inglês, Quality Assurance e DevOps. Sou uma pessoa dedicada, organizada e possuo facilidade de aprendizado, gosto muito de tecnologia.
 
-Possuo experiência com desenvolvimento de aplicações em Python, Flask, Django, Análise de Dados, pandas, sklearn, API REST, Mensageria com kafka , Segurança da informação. Possuo certificação de todas tecnologias citadas.
+Experiência profissional: Automação de tarefas, elaborar indicadores, SAP ERP, Suporte, Software de auditoria, Gestão de equipes, Elaboração e acompanhamento de Treinamentos, Abertura de chamados, Acesso remoto, atendimento ao cliente. 
 
-Possuo experiência com desenvolvimento de API Java utilizando SpringBoot
+Possuo experiência com desenvolvimento de aplicações WEB com Python e Java, Flask, Django, HTML, CSS, Bootstrap, Análise de Dados, pandas, sklearn, API REST, Mensageria com kafka.
+Desenvolvi algumas ferramentas de segurança da informação com Python: WebScrapper, WebCrawler, Gerador de senhas, gerador de hash, encriptador, comparador de hash.
 
-Sou uma pessoa dedicada, organizada e possuo facilidade de aprendizado, gosto muito de tecnologia.
+Desenvolvimento de um jogo de xadrez em Java, API com SpringBoot, Testes de API com POSTMAN, Testes com Selenium 
 
-Atualmente cursando o 5ºSemestre de Analise e Desenvolvimento de Sistemas na UNIASSELVI, mas além da faculdade estudo sobre Quality Assurance.
 
 
 ## 
