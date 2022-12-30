@@ -3,7 +3,7 @@
 
 # SOBRE
 
-Desenvolvedor de software, atualmente cursando o 5ºSemestre de Analise e Desenvolvimento de Sistemas na UNIASSELVI, mas além da faculdade estudo Inglês, Quality Assurance e DevOps. Sou uma pessoa dedicada, organizada e possuo facilidade de aprendizado, gosto muito de tecnologia.
+Desenvolvedor de software, atualmente cursando o 5ºSemestre de Analise e Desenvolvimento de Sistemas na UNIASSELVI, mas além da faculdade estudo Inglês, Quality Assurance e DevOps. 
 
 
 
