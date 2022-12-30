@@ -20,8 +20,8 @@ Desenvolvimento de um jogo de xadrez em Java, API com SpringBoot, Testes de API 
   
 |Principais Repositórios| |
 |--|--| 
-| [QA - Testes jUnit e Selenium WebDriver](https://github.com/antoniobigas/Qa-java-Selenium) |
 | [QA - BDD + Cucumber ](https://github.com/antoniobigas/qa-bdd-cucumber) |
+| [QA - Testes jUnit e Selenium WebDriver](https://github.com/antoniobigas/Qa-java-Selenium) |
 | [Mensageria Spring AMQP e RabbitMQ](https://github.com/antoniobigas/Mensageria-java-spring-AMQP-RabbitMQ) |  
 | [API SpringBoot](https://github.com/antoniobigas/Java-SpringBoot-API) |
 | [Jogo de Xadrez em Java](https://github.com/antoniobigas/Jogo-xadrez-java) |
