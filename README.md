@@ -18,7 +18,7 @@ Desenvolvimento de um jogo de xadrez em Java, API com SpringBoot, Testes de API 
 
 <div  align="center" dir="auto"> 
   
-|Principais Repositórios| |
+|Principais Projetos| |
 |--|--| 
 | [QA - BDD + Cucumber ](https://github.com/antoniobigas/qa-bdd-cucumber) |
 | [QA - Testes jUnit e Selenium WebDriver](https://github.com/antoniobigas/Qa-java-Selenium) |
