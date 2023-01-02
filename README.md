@@ -3,7 +3,7 @@
 
 # SOBRE
 
-Desenvolvedor de software, atualmente cursando o 5ºSemestre de Analise e Desenvolvimento de Sistemas, além da faculdade estudo Inglês, Quality Assurance e DevOps. 
+Desenvolvedor de software, atualmente cursando o 5ºSemestre de Analise e Desenvolvimento de Sistemas, além da faculdade estudo Inglês, Quality Assurance.
 
  
 
