@@ -8,13 +8,13 @@ Desenvolvedor de software, atualmente cursando o 5ºSemestre de Analise e Desenv
  
 
 
-
 ## 
 
 <div  align="center" dir="auto"> 
   
 |Principais Projetos| |
 |--|--| 
+| [QA - Postman + Automação ](https://github.com/antoniobigas/Qa-Postman-automacao) |
 | [QA - BDD + Cucumber ](https://github.com/antoniobigas/qa-bdd-cucumber) |
 | [QA - Testes jUnit e Selenium WebDriver](https://github.com/antoniobigas/Qa-java-Selenium) |
 | [Mensageria Spring AMQP e RabbitMQ](https://github.com/antoniobigas/Mensageria-java-spring-AMQP-RabbitMQ) |  
