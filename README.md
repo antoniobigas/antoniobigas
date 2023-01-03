@@ -35,7 +35,6 @@ Desenvolvedor de software, atualmente cursando o 5ºSemestre de Analise e Desenv
 | [Curso Java](https://github.com/antoniobigas/Java-Curso) |
 | [Curso Desenvolvimento Web Fullstack + Python](https://github.com/antoniobigas/Projetos-HTML-CSS)  |
 | [Bootcamp: Jornada Devops](https://github.com/antoniobigas/Jornada-DevOps)  |
-| [Bootcamp: Ciencia de Dados](https://github.com/antoniobigas/BootCamp-Geracao-tech-unimed-bh)  |
 | [Bootcamp: Data Experiencie  - Banco de Dados ](https://github.com/antoniobigas/DataExperience)  |
 
 
