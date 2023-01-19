@@ -24,6 +24,7 @@ Software developer / Quality Assurance / Automation Tests;
   
 |Principais Projetos| |
 |--|--| 
+| [QA - Cypress + Automação Agilizei ](https://github.com/antoniobigas/cypressyt-agilizei) |
 | [QA - Postman + Automação ](https://github.com/antoniobigas/Qa-Postman-automacao) |
 | [QA - BDD + Cucumber ](https://github.com/antoniobigas/qa-bdd-cucumber) |
 | [QA - jUnit + Mockito e TDD ](https://github.com/antoniobigas/qa-jUnit-MOCKITO-TDD) |
