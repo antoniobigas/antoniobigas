@@ -22,23 +22,22 @@ Software developer / Quality Assurance / Automation Tests;
 
 <div  align="center" dir="auto"> 
   
-|Principais Projetos| |
+|Principais Projetos|Tecnologias | 
 |--|--| 
-| [QA - Cypress + Automação Agilizei ](https://github.com/antoniobigas/cypressyt-agilizei) |
-| [QA - Postman + Automação ](https://github.com/antoniobigas/Qa-Postman-automacao) |
-| [QA - BDD + Cucumber ](https://github.com/antoniobigas/qa-bdd-cucumber) |
-| [QA - jUnit + Mockito e TDD ](https://github.com/antoniobigas/qa-jUnit-MOCKITO-TDD) |
-| [QA - Testes jUnit e Selenium WebDriver](https://github.com/antoniobigas/Qa-java-Selenium) |
-| [Mensageria Spring AMQP e RabbitMQ](https://github.com/antoniobigas/Mensageria-java-spring-AMQP-RabbitMQ) |  
-| [API SpringBoot](https://github.com/antoniobigas/Java-SpringBoot-API) |
-| [Jogo de Xadrez em Java](https://github.com/antoniobigas/Jogo-xadrez-java) |
-| [Seguranca da Informacao com Python](https://github.com/antoniobigas/cybersecuritypy)  |
-| [Crud Python](https://github.com/antoniobigas/crud1)  |
-| [API FLASK](https://github.com/antoniobigas/API_FLASK) |
-| [Curso Java](https://github.com/antoniobigas/Java-Curso) |
-| [Curso Desenvolvimento Web Fullstack + Python](https://github.com/antoniobigas/Projetos-HTML-CSS)  |
-| [Bootcamp: Jornada Devops](https://github.com/antoniobigas/Jornada-DevOps)  |
-| [Bootcamp: Data Experiencie  - Banco de Dados ](https://github.com/antoniobigas/DataExperience)  |
+| [QA - Cypress   Automação Agilizei ](https://github.com/antoniobigas/cypressyt-agilizei) | JavaScript  + Node + Cypress
+| [QA - Postman   Automação ](https://github.com/antoniobigas/Qa-Postman-automacao) | Postman API
+| [QA - BDD   Cucumber ](https://github.com/antoniobigas/qa-bdd-cucumber) | Java + BDD + Cucumber
+| [QA - jUnit   Mockito e TDD ](https://github.com/antoniobigas/qa-jUnit-MOCKITO-TDD) | Java + jUnit + Mockito
+| [QA - Testes jUnit e Selenium WebDriver](https://github.com/antoniobigas/Qa-java-Selenium) | SeleniumWebDriver
+| [Mensageria Spring AMQP e RabbitMQ](https://github.com/antoniobigas/Mensageria-java-spring-AMQP-RabbitMQ) |  Java + Spring + RabbitMQ
+| [API SpringBoot](https://github.com/antoniobigas/Java-SpringBoot-API) | Java + SpringBoot 
+| [Seguranca da Informacao com Python](https://github.com/antoniobigas/cybersecuritypy)  | Python
+| [Crud Python](https://github.com/antoniobigas/crud1)  | Python
+| [API FLASK](https://github.com/antoniobigas/API_FLASK) | Python
+| [Curso Java](https://github.com/antoniobigas/Java-Curso) | Java
+| [Curso Desenvolvimento Web Fullstack + Python](https://github.com/antoniobigas/Projetos-HTML-CSS)  | JavaScript + Html + Css + Python
+| [Bootcamp: Jornada Devops](https://github.com/antoniobigas/Jornada-DevOps)  | Linux + Docker + Kubernetes + CI/CD + AWS
+| [Bootcamp: Data Experiencie  - Banco de Dados ](https://github.com/antoniobigas/DataExperience)  | MySQL + MongoDB
 
 
 
