@@ -1,12 +1,9 @@
-- 👋 Olá, me chamo Antonio Bigas, seja bem vindx!
+- 👋 Hi, welcome! My name is Antonio Bigas, i'm a IT Analyst. I Have experience with IT Support and Software Quality Assurance;
+- I'm Living in São Paulo - Brazil.
+- I'm open for offers to a remote job.
+- I'm currently finishing my degree in systems analysis and development, and I'm also studying English.
 
-
-# SOBRE
-
-
-Software developer / Quality Assurance / Automation Tests;
-
-   ## Contato
+   ## Contact
   
  <div  align="center" dir="auto">
 <a href = "mailto:antoniobigas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -22,7 +19,7 @@ Software developer / Quality Assurance / Automation Tests;
 
 <div  align="center" dir="auto"> 
   
-|Principais Projetos|Tecnologias | 
+|Projects|Technologies | 
 |--|--| 
 | [QA - Cypress   Automação Agilizei ](https://github.com/antoniobigas/cypressyt-agilizei) | JavaScript  + Node + Cypress
 | [QA - Postman   Automação ](https://github.com/antoniobigas/Qa-Postman-automacao) | Postman API
