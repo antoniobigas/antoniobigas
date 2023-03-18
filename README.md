@@ -54,7 +54,7 @@
 ## 
  
  
-## Tecnologias
+##
 <div  align="center" dir="auto" style="display: inline_block"> <br>
  <img alt="Bigas-Java" height="60" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
  <img alt="Bigas-js" height="40" width="35"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
