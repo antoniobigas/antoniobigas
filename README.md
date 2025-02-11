@@ -21,6 +21,7 @@
   
 |Projects|Technologies | 
 |--|--| 
+| [FORMAÇÃO ALURA - QA ](https://github.com/antoniobigas/Forma--o-Alura---QA-) | JavaScript + Cypress + Robot
 | [QA - Cypress   Automação Agilizei ](https://github.com/antoniobigas/cypressyt-agilizei) | JavaScript  + Node + Cypress
 | [QA - Postman   Automação ](https://github.com/antoniobigas/Qa-Postman-automacao) | Postman API
 | [QA - BDD   Cucumber ](https://github.com/antoniobigas/qa-bdd-cucumber) | Java + BDD + Cucumber
